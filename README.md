@@ -1,2 +1,2 @@
 # rbinasya
-My firsr repository on Github!
+My first repository on Github!
