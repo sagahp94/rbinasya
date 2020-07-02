@@ -1,0 +1,14 @@
+Package: InShot Premium
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RBin
+Depends: <bundleids>
+Filename: InShot.deb
+Size: 6230 bytes
+MD5sum: 1aff0a0cc254383f12bb6846d8410199
+SHA1: e122b0360b1c59d581ff162aabbe19fb3e4c6f95
+SHA256: 6fd43e1fec5b84c7e090715b93762932ab3e08e13382b8fc8e1b350783b51a26
+Section: Tinh chỉnh
+Description: InShot Premium
+Author: RBin
+Name: InShot Premium
